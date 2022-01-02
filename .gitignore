@@ -3,6 +3,9 @@
 # dependencies
 
 /node_modules
+/lms/node_modules
+/lms-app/node_modules
+
 /material
 /.pnp
 .pnp.js
